@@ -1,0 +1,27 @@
+body{
+  background-color: #eeebdd;
+  margin: 1%
+}
+h1 {
+  color: #025955;
+  font-size: 30px;
+  font-family: Lucida ,monospace;
+}
+header{
+  position: absolute;
+  right: 50%;
+  top:3%;
+  font-family: Lucida ,monospace;
+}
+img{
+  border:2px solid white;
+  border-radius:100%;
+}
+ul{
+  color:#121013;
+  font-family:Helvetica,sans-serif;
+}
+legend,label{
+  color:#121013;
+  font-family:Helvetica,sans-serif;
+}
